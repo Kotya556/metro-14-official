@@ -1,0 +1,11 @@
+- type: entity
+  parent: ClothingBackpack
+  id: M14Voeniiback
+  name: Милитари рюкзак
+  description: Большой милитари рюкзак
+  components:
+  - type: Sprite
+    sprite: _Metro14/Clothing/Back/Backpacks
+  - type: Storage
+    grid:
+    - 0,0,4,7

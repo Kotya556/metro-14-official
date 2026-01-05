@@ -40,7 +40,7 @@
     damageMultiplierModified: 0.7
     fireRate: 3
     soundGunshot: # Corvax-Guns
-      path: /Audio/Corvax/Weapons/Guns/Gunshots/shotgun_sawed.ogg
+      path: /Audio/Weapons/Guns/Gunshots/shotgun.ogg
   - type: GunSpreadModifier
     spread: 0.1
   - type: BallisticAmmoProvider

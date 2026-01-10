@@ -127,7 +127,7 @@ namespace Content.Shared.Administration
         //Metro14-start
 
         /// <summary>  
-        ///      Now you can add sponsor tier to player.
+        ///     Возможность выдавать/удалять подписку игрокам.
         /// </summary>  
         Sponsor = 1 << 22,
 

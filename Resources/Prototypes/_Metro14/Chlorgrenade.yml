@@ -24,7 +24,7 @@
 
 - type: reagent
   id: ChlorineStalker
-  name: газовый хлор
+  name: reagent-name-chlorstalker
   group: Elements
   desc: reagent-desc-clorka
   physicalDesc: reagent-physical-desc-chlorstalker
